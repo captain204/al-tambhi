@@ -1,0 +1,34 @@
+/*............................General styles......................*/
+
+section{
+
+	padding: 50px;
+	width: 100vw;
+	height: 100vh;	
+}
+
+img{
+	width: 300px;
+	transition: opacity .1s ease-in-out;
+}
+img:hover{
+
+	opacity: .5;
+}
+
+/*............................Classes......................*/
+
+.cl_white{
+
+	color: white;
+}
+.col-text{
+
+	-webkit-column-count:4;
+}
+/*........................End of classe..................*/
+
+
+#home{
+	
+}
